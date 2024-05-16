@@ -2,12 +2,12 @@
 
 Este repositório é dedicado ao estudo e experimentação do uso do Method Channel no Flutter. Ele contém exemplos práticos, tutoriais e anotações que demonstram como integrar o código Dart com o código nativo (Kotlin/Java para Android e Swift/Objective-C para iOS). O objetivo é fornecer uma base sólida para desenvolvedores que desejam entender e utilizar o Method Channel para implementar funcionalidades que exigem comunicação entre o Flutter e as plataformas nativas.
 
-## Conteúdo do Repositório
 
-- **Exemplos de Código:** Demonstrações simples e avançadas de uso do Method Channel.
-- **Tutoriais Passo a Passo:** Guias detalhados para configurar e utilizar o Method Channel em projetos Flutter.
-- **Anotações e Dicas:** Insights sobre melhores práticas e resolução de problemas comuns.
-- **Projetos de Demonstração:** Aplicativos de exemplo que implementam funcionalidades nativas específicas usando Method Channel.
+
+## Video da Aplicação
+
+
+https://github.com/WemersonDamasceno/method_channel_flutter/assets/37156004/188cd1bf-ffc2-4234-b004-155cd9c33c9d
 
 ## Requisitos
 
@@ -41,11 +41,6 @@ Este repositório é dedicado ao estudo e experimentação do uso do Method Chan
 - `ios/`: Contém o código nativo para iOS (Swift/Objective-C).
 - `docs/`: Documentação adicional e tutoriais.
 - `examples/`: Exemplos práticos de uso do Method Channel.
-
-## Video da Aplicação
-
-
-https://github.com/WemersonDamasceno/method_channel_flutter/assets/37156004/188cd1bf-ffc2-4234-b004-155cd9c33c9d
 
 
 ## Contribuição
